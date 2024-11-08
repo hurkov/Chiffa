@@ -17,3 +17,5 @@
 <a class="reference external image-reference" href="https://app.codecov.io/gh/aiogram/aiogram"><img alt="Codecov" src="https://img.shields.io/codecov/c/github/aiogram/aiogram?style=flat-square">
 </a>
 </div>
+
+<h2><a href="https://docs.aiogram.dev/en/latest/index.html">Aiogram 3.14.0 documentation</a></h2>
