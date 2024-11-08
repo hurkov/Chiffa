@@ -53,7 +53,7 @@ async def detect_and_set_language(message: types.Message):
     bd_status = await db.bd_status(message.chat.id)
 
     if bd_status:
-        client = Groq(api_key="GPT3_API_KEY")
+        client = Groq(api_key="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")
         chat_completion = client.chat.completions.create(
             messages=[
                 {
