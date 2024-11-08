@@ -19,3 +19,8 @@
 </div>
 
 <h2><a href="https://docs.aiogram.dev/en/latest/index.html">Aiogram 3.14.0 documentation</a></h2>
+<br>
+<h1 align="left">Introduction</h1>
+<p>Chiffa is a powerful Telegram moderation bot designed to help keep groups safe, organized, and friendly. Below is a detailed description of its functionalities and features:</p>
+<br>
+<h3>Main Functionalities:</h3>
