@@ -9,9 +9,6 @@ from aiogram.fsm.state import StatesGroup, State
 from aiogram.fsm.context import FSMContext
 
 rtc = Router()
-#8cb62e2091eacf46efdcdbf49a83b14a
-#ATTAc42b19766273ea896faf0f11b3e0f4c10973a2b6a09f744985a5fca38c181e0669038ED2
-#1002303379680
 
 
 class Ser(StatesGroup):
